@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM :ubuntu
 #start with a small image
 MAINTAINER david <golucky@gmail.com>
 #add Nginx
